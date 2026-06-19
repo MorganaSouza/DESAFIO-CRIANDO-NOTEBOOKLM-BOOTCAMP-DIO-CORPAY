@@ -33,7 +33,9 @@ Antes da criação do NotebookLM foi elaborado um documento contendo o objetivo 
 
 ## 📷 Arquivo objetivo.txt
 
-![Bloco de Notas](img/bloconotas.png)
+<p align="center">
+  <img src="img/bloconotas.png" width="500">
+</p>
 
 ---
 
@@ -49,7 +51,11 @@ Com isso, foi possível expandir a base de conhecimento utilizando materiais sug
 
 ## 📷 Notebook criado
 
-![NotebookLM](img/notebooklm.png)
+<p align="center">
+  <a href="img/notebooklm.png">
+    <img src="img/notebooklm.png" width="800">
+  </a>
+</p>
 
 ---
 
@@ -70,7 +76,9 @@ O NotebookLM consolidou mais de 30 fontes para análise e estudo.
 
 ## 📷 Fontes carregadas
 
-![Fontes Selecionadas](img/fontesadicionadas.png)
+<p align="center">
+  <img src="img/fontesadicionadas.png" width="500">
+</p>
 
 ---
 
@@ -116,7 +124,9 @@ Também foram apresentados:
 
 ## 📷 Resultado do Prompt
 
-![Chat NotebookLM](img/chatnotebooklm.png)
+<p align="center">
+  <img src="img/chatnotebooklm.png" width="500">
+</p>
 
 ---
 
@@ -231,15 +241,21 @@ Durante o desenvolvimento também foram utilizados recursos multimídia da plata
 
 ## 📷 Resumo em Vídeo
 
-![Resumo em Vídeo](img/video.png)
+<p align="center">
+  <img src="img/video.png" width="500">
+</p>
 
 ## 📷 Apresentação
 
-![Apresentação](img/apresentacao.png)
+<p align="center">
+  <img src="img/apresentacao.png" width="500">
+</p>
 
-## 📷 Mapa Mental
+## 🧠 Mapa Mental
 
-![Mapa Mental](img/mapamental.png)
+<p align="center">
+  <img src="img/mapamental.png" width="500">
+</p>
 
 ---
 
