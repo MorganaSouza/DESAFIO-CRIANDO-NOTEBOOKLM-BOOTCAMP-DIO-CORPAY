@@ -14,6 +14,13 @@ Este projeto foi desenvolvido como parte do desafio **"Treinando uma IA de Apren
 
 O objetivo foi utilizar o NotebookLM como ferramenta de aprendizagem ativa para estudar conceitos fundamentais de Educação Financeira para Iniciantes, explorando curadoria de fontes, engenharia de prompts e organização do conhecimento com apoio de Inteligência Artificial.
 
+OBJETIVO: Criar um assistente de aprendizagem sobre Educação Financeira para Iniciantes, 
+utilizando fontes confiáveis para compreender conceitos fundamentais como orçamento 
+pessoal, reserva de emergência, juros compostos e investimentos básicos, 
+gerando resumos, glossário de termos, perguntas de revisão e materiais de 
+estudo para consultas futuras.
+
+
 ---
 
 # 🎯 Objetivo de Estudo
@@ -80,6 +87,43 @@ O NotebookLM consolidou mais de 30 fontes para análise e estudo.
   <img src="img/fontesadicionadas.png" width="500">
 </p>
 
+## 📹 Fontes de Vídeo
+
+### Série de Educação Financeira
+
+1. [Vídeo 01](https://www.youtube.com/watch?v=CB5zuxQl5ro&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=1)
+2. [Vídeo 02](https://www.youtube.com/watch?v=SMCe1ZHS4Ag&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=2)
+3. [Vídeo 03](https://www.youtube.com/watch?v=AfMGeMZmyUU&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=3)
+4. [Vídeo 04](https://www.youtube.com/watch?v=CPeQs7CAaZQ&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=4)
+5. [Vídeo 05](https://www.youtube.com/watch?v=KuRZucr-YLE&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=5)
+6. [Vídeo 06](https://www.youtube.com/watch?v=Qx5dYnV8BAM&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=6)
+7. [Vídeo 07](https://www.youtube.com/watch?v=qH3IQKoXCHg&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=7)
+8. [Vídeo 08](https://www.youtube.com/watch?v=9T6OOSRWSZI&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=10)
+
+### Conteúdos Complementares
+
+9. [Educação Financeira para Iniciantes - Vídeo A](https://www.youtube.com/watch?v=HzRK6wTSHHU)
+10. [Educação Financeira para Iniciantes - Vídeo B](https://www.youtube.com/watch?v=HSXcvFVtsdM)
+11. [Educação Financeira para Iniciantes - Vídeo C](https://www.youtube.com/watch?v=VLypOc9mdX8)
+12. [Educação Financeira para Iniciantes - Vídeo D](https://www.youtube.com/watch?v=FfJRuxVqqvQ)
+
+---
+
+## 📄 Fontes de Texto
+
+### Artigos
+
+* [Educação Financeira - Azos](https://www.azos.com.br/vida-segura/educacao-financeira)
+* [Educação Financeira do Zero - Blog Banco do Brasil](https://blog.bb.com.br/educacao-financeira-do-zero-tudo-que-voce-precisa-saber-para-comecar/)
+* [Educação Financeira - XP Investimentos](https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/educacao-financeira/)
+
+### PDFs e Materiais Didáticos
+
+* [Cuidando do Seu Dinheiro - Banco Central do Brasil (PDF)](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf)
+
+* [E-book Educação Financeira para Iniciantes - Omni (PDF)](https://www.omni.com.br/wp-content/uploads/2024/08/E-BOOK-EDUCACAO-FINANCEIRA-PARA-INICIANTES.pdf)
+
+
 ---
 
 # 💬 Engenharia de Prompts
@@ -92,64 +136,67 @@ Após o carregamento das fontes, foram realizados testes utilizando perguntas es
 
 ### Pergunta
 
-> Quais são as três fases para montar uma reserva de emergência?
+> Quais são as melhores opções para investir a Reserva Inicial?
 
-### Resumo da Resposta
+### Objetivo do Prompt
 
-O NotebookLM identificou três etapas principais:
+Identificar quais investimentos são mais adequados para a fase inicial da construção de uma reserva de emergência, considerando critérios como segurança, liquidez e rentabilidade.
 
-### Reserva Inicial
+### Resposta Gerada pelo NotebookLM
 
-* Entre R$ 1.000 e R$ 3.000;
-* Cobertura de pequenos imprevistos;
-* Evita novas dívidas.
+Com base nas fontes analisadas, o NotebookLM recomendou investimentos de renda fixa que priorizam a preservação do capital e a disponibilidade imediata dos recursos.
 
-### Reserva Intermediária
+#### Tesouro Selic
 
-* Entre R$ 4.000 e R$ 7.000;
-* Maior segurança financeira;
-* Cobertura temporária da renda.
+* Considerado um dos investimentos mais seguros do Brasil;
+* Garantido pelo Tesouro Nacional;
+* Possui liquidez diária;
+* Permite aplicações com valores acessíveis;
+* Recomendado para investidores iniciantes.
 
-### Reserva Completa
+#### CDB com Liquidez Diária
 
-* Equivalente a 6 meses do custo de vida;
-* Proteção contra crises financeiras;
-* Base da segurança financeira.
+* Emitido por instituições bancárias;
+* Permite resgate rápido;
+* Idealmente deve render 100% do CDI ou mais;
+* Conta com a proteção do Fundo Garantidor de Créditos (FGC) para valores de até R$ 250.000 por instituição financeira.
 
-Também foram apresentados:
+#### Contas Digitais e Caixinhas
 
-* Tesouro Selic;
-* CDB com liquidez diária;
-* Contas que rendem CDI.
+* Alternativa prática para separar a reserva de emergência;
+* Possuem rendimento atrelado ao CDI;
+* Facilitam a organização financeira.
 
-## 📷 Resultado do Prompt
+#### LCI e LCA com Liquidez Diária
+
+* Possuem isenção de Imposto de Renda para pessoa física;
+* Só são adequadas para reserva de emergência quando oferecem resgate após o período de carência;
+* Exigem atenção às regras de liquidez.
+
+### Critérios Destacados pelo NotebookLM
+
+#### Liquidez
+
+O dinheiro deve estar disponível para saque imediato em caso de necessidade.
+
+#### Segurança
+
+O objetivo principal da reserva de emergência é proteger o patrimônio, evitando riscos desnecessários.
+
+#### Rentabilidade
+
+As opções apresentadas tendem a superar a poupança no longo prazo e oferecem melhor proteção contra a inflação.
+
+### Conclusão
+
+O NotebookLM destacou que a formação da reserva de emergência deve ser priorizada antes de investimentos em renda variável, servindo como base para uma vida financeira mais segura e equilibrada.
+
+### Evidência
 
 <p align="center">
   <img src="img/chatnotebooklm.png" width="500">
 </p>
 
----
-
-## Prompt 02
-
-### Pergunta
-
-> Quais são as melhores opções para investir a Reserva Inicial?
-
-### Resumo da Resposta
-
-O NotebookLM recomendou:
-
-* Tesouro Selic;
-* CDB com liquidez diária;
-* Contas digitais com rendimento CDI;
-* LCI e LCA com liquidez diária.
-
-Critérios destacados:
-
-* Liquidez imediata;
-* Baixo risco;
-* Proteção contra inflação.
 
 ---
 
