@@ -1,0 +1,35 @@
+🎯 OBJETIVO:
+
+Criar um assistente de aprendizagem sobre Educação Financeira para Iniciantes, 
+utilizando fontes confiáveis para compreender conceitos fundamentais como orçamento 
+pessoal, reserva de emergência, juros compostos e investimentos básicos, 
+gerando resumos, glossário de termos, perguntas de revisão e materiais de 
+estudo para consultas futuras.
+
+📹 FONTES DE VÍDEO:
+
+https://www.youtube.com/watch?v=CB5zuxQl5ro&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=1&pp=iAQB0gcJCT8LAYcqIYzv
+https://www.youtube.com/watch?v=SMCe1ZHS4Ag&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=2&pp=iAQB
+https://www.youtube.com/watch?v=AfMGeMZmyUU&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=3&pp=iAQB
+https://www.youtube.com/watch?v=CPeQs7CAaZQ&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=4&pp=iAQB0gcJCT8LAYcqIYzv
+https://www.youtube.com/watch?v=KuRZucr-YLE&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=5&pp=iAQB
+https://www.youtube.com/watch?v=Qx5dYnV8BAM&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=6&pp=iAQB0gcJCT8LAYcqIYzv
+https://www.youtube.com/watch?v=qH3IQKoXCHg&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=7&pp=iAQB
+https://www.youtube.com/watch?v=qH3IQKoXCHg&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=7&pp=iAQB
+https://www.youtube.com/watch?v=qH3IQKoXCHg&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=7&pp=iAQB
+https://www.youtube.com/watch?v=9T6OOSRWSZI&list=PLRKLXIVXP9YxyNVlNVdX41Btrm9P9MJ2J&index=10&pp=iAQB
+https://www.youtube.com/watch?v=HzRK6wTSHHU&pp=ygUlZWR1Y2HDp8OjbyBmaW5hbmNlaXJhIHBhcmEgaW5pY2lhbnRlcw%3D%3D
+https://www.youtube.com/watch?v=HSXcvFVtsdM&pp=ygUlZWR1Y2HDp8OjbyBmaW5hbmNlaXJhIHBhcmEgaW5pY2lhbnRlcw%3D%3D
+https://www.youtube.com/watch?v=VLypOc9mdX8&pp=ygUlZWR1Y2HDp8OjbyBmaW5hbmNlaXJhIHBhcmEgaW5pY2lhbnRlcw%3D%3D
+https://www.youtube.com/watch?v=FfJRuxVqqvQ&pp=ygUlZWR1Y2HDp8OjbyBmaW5hbmNlaXJhIHBhcmEgaW5pY2lhbnRlc9IHCQk-CwGHKiGM7w%3D%3D
+
+
+📄 FONTES DE TEXTO:
+
+https://www.azos.com.br/vida-segura/educacao-financeira?utm_term=grupo2&utm_campaign=pmax-b2c&utm_source=google&utm_medium=cpc&hsa_acc=3327817460&hsa_cam=16521970998&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22019778132&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTj6chiSyZw7xqesl3d82pnj2JXC72ltuMklxLtpPcheTAfUc3aLPWhoC76cQAvD_BwE
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwitptvn-ZOVAxW6B7kGHZa5MawQFnoECDEQAQ&url=https%3A%2F%2Fwww.bcb.gov.br%2Fcontent%2Fcidadaniafinanceira%2Fdocumentos_cidadania%2FCuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais%2Fcaderno_cidadania_financeira.pdf&usg=AOvVaw3SXqQOL3rKsy8dGSWptwQ_&opi=89978449
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwitptvn-ZOVAxW6B7kGHZa5MawQFnoECDMQAQ&url=https%3A%2F%2Fwww.omni.com.br%2Fwp-content%2Fuploads%2F2024%2F08%2FE-BOOK-EDUCACAO-FINANCEIRA-PARA-INICIANTES.pdf&usg=AOvVaw2CvUzQr01b7ChXW_D41M3D&opi=89978449
+https://blog.bb.com.br/educacao-financeira-do-zero-tudo-que-voce-precisa-saber-para-comecar/
+https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/educacao-financeira/?campaignid=22474370115&adgroupid=184702049957&feeditemid=&targetid=kwd-1045307982957&loc_interest_ms=&loc_physical_ms=9210637&matchtype=b&network=g&device=c&devicemodel=&ifmobile=&ifmobile=0&ifsearch=1&ifsearch=&ifcontent=0&ifcontent=&creative=771821601056&keyword=renda%20vari%C3%A1vel%20para%20iniciantes&placement=&target=&utm_source=google&utm_medium=cpc&utm_term=renda%20vari%C3%A1vel%20para%20iniciantes&utm_campaign=GGLE_PESQ_Generica_Investimentos_tCPA&utm_adgroup={adgroupname}&utm_adset=&gad_source=1&gad_campaignid=22474370115&gclid=CjwKCAjw0dPRBhAPEiwAE5vTTtYmd8W6kBDq84ZwoqFjx3zqvOJjg-64_f4VznneZ8Ir7svV1FNTvRoC-FcQAvD_BwE
+
+lINK DO NOTEBOOKLM: https://notebooklm.google.com/notebook/a80b608a-c731-4736-a8c3-defd30857ef0?authuser=1
